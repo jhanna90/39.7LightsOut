@@ -1,0 +1,437 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <table
+      class="Board"
+      data-testid="Board"
+    >
+      <tbody>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="0-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="1-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="2-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="3-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="4-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="5-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="6-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="7-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="8-9"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-0"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-1"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-2"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-3"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-4"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-5"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-6"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-7"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-8"
+          />
+          <td
+            class="Cell Cell-lit"
+            data-testid="9-9"
+          />
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;
